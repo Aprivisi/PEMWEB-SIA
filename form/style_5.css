@@ -1,0 +1,37 @@
+body {
+	background-color : #FFFFFF;
+	font: 1em/1.5 sans-serif;	
+}
+h1{
+	text-align: center;
+	font-family: 25px;
+	color: black;
+}
+form {
+	margin: 20px auto;
+	width: 570px;
+	color: black;
+}
+input {
+	padding: 10px;
+	font-size: inherit;
+}
+input [type="text"] {
+	display: block;
+	margin-bottom: 25px;
+	width:100%;
+	border: 2px solid black;
+	background: #FAF6D9
+}
+input[type="text"]{
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+	border: 2px solid black;
+	background: #FAF6D9
+}
+input[type=number]{
+	width: 100px ;
+
+}
+
